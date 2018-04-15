@@ -1,0 +1,22 @@
+{
+  "name": "embeding-google-data-studios",
+  "version": "1.0.0",
+  "description": "A POC on embeding reports for google data studios in a secure application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naguibihab/embeding-google-data-studios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naguibihab/embeding-google-data-studios/issues"
+  },
+  "homepage": "https://github.com/naguibihab/embeding-google-data-studios#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}

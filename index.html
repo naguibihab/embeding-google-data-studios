@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<script type="text/javascript" src="env.json"></script>
 		<style>
 			.wrapper {
 		    position: relative;
@@ -38,4 +39,10 @@
 		</div>
 
 	</body>
+	<foot>
+		<script>
+				var config = JSON.parse(environmentVariables);
+				console.log("environment variables",config);
+		</script>
+	</foot>
 </html>
